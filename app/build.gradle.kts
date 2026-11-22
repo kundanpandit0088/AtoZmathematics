@@ -5,10 +5,10 @@ plugins {
     id("com.google.devtools.ksp")
 }
 android {
-    namespace = "in.atozmathematics.feeapp"
+    namespace = "com.atozmathematics.feeapp"
     compileSdk = 35
     defaultConfig {
-        applicationId = "in.atozmathematics.feeapp"
+        applicationId = "com.atozmathematics.feeapp"
         minSdk = 26
         targetSdk = 35
         versionCode = 1

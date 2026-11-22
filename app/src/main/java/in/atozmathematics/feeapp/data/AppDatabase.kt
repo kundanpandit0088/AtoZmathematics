@@ -1,4 +1,4 @@
-package in.atozmathematics.feeapp.data
+package com.atozmathematics.feeapp.data
 
 import android.content.Context
 import androidx.room.Database

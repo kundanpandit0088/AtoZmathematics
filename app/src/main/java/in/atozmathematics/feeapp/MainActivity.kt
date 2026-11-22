@@ -1,4 +1,4 @@
-package in.atozmathematics.feeapp
+package com.atozmathematics.feeapp
 
 import android.os.Bundle
 import android.content.Intent
@@ -19,7 +19,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
-import in.atozmathematics.feeapp.data.*
+import com.atozmathematics.feeapp.data.*
 import kotlinx.coroutines.launch
 import java.text.SimpleDateFormat
 import java.util.Date

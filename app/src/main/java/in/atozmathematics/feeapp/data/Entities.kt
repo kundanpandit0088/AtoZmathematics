@@ -1,4 +1,4 @@
-package in.atozmathematics.feeapp.data
+package com.atozmathematics.feeapp.data
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
