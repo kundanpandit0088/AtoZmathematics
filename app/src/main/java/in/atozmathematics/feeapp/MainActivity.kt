@@ -1,3 +1,4 @@
+@file:OptIn(androidx.compose.material3.ExperimentalMaterial3Api::class)
 package com.atozmathematics.feeapp
 
 import android.os.Bundle
